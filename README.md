@@ -5,7 +5,7 @@ This project is an attempt to highlight the growth of Ed Tech industry into what
 An attempt is made to quantify external factors that possibly helped in the growth.So we look into those as well.
 
 
-![PROJECT OVERVIEW](Edtech.PNG)
+![PROJECT OVERVIEW](Images/Edtech.PNG)
 
 ## DATA
 
@@ -24,7 +24,7 @@ An attempt is made to quantify external factors that possibly helped in the grow
 
 A few highlights of the EDA Analysis showing the growing trend of funding in Ed tech Industy.A sign of growing importance.
 
-![FUNDING UNTIL 2016](<FUNDING TILL 2016.PNG>)
+![FUNDING UNTIL 2016](<Images/FUNDING-TILL-2016.PNG>)
 
 ![FUNDING SINCE 2015](<FUNDING POST 2015.PNG>)
 

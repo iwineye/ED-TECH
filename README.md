@@ -4,6 +4,7 @@ This project is an attempt to highlight the growth of Ed Tech industry into what
 
 An attempt is made to quantify external factors that possibly helped in the growth.So we look into those as well.
 
+![Complete Story]()
 
 ![PROJECT OVERVIEW](Images/Edtech.PNG)
 
@@ -42,13 +43,22 @@ penetration,mobile internet users,demographic dividend on growth in Ed Tech comp
 
 ## OLS REGRESSION
 Using Statsmodel api Ordinary Linear Regression is performed.It is used to draw the relationship between independent(Feature 
-
 Variables) and dependent variable(Funding Rounds).
 
 ## RESULTS
 
-Successfully proved that there is a positive relationship.
+Successfully proved that there is a positive relationship between funding and independent variables implying external factors 
 
+did influence Ed Tech Industry grow.Though its important to note that correlation doesn't mean causation.
+
+![CORRELATION](Images/CORR PLOT.PNG)
+
+## REMARKS
+Since majority of E Learning user base is younger population. There is a lot of room for Edtech companies to grow in a country like 
+
+ours.Especially with the rise in internet connectivity among younger population in rural India.There is a good oppurtunity round the
+
+corner waiting to be grabbed. 
 
 ![FUTURE STATISTICS](<Images/WAY FORWORD.PNG>) 
 

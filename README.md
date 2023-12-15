@@ -26,7 +26,7 @@ A few highlights of the EDA Analysis showing the growing trend of funding in Ed 
 
 ![FUNDING UNTIL 2016](<Images/FUNDING-TILL-2016.PNG>)
 
-![FUNDING SINCE 2015](<FUNDING POST 2015.PNG>)
+![FUNDING SINCE 2015](<Images/FUNDING POST 2015.PNG>)
 
 ![PRE PANDAMIC](<PRE PANDEMIC.PNG>)
 

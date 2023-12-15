@@ -21,7 +21,7 @@ An attempt is made to quantify external factors that possibly helped in the grow
     *Matplotlib
     *Statsmodel.api
 
-## EDA
+## EDA HIGHLIGHTS
 
 A few highlights of the EDA Analysis showing the growing trend of funding in Ed tech Industy.A sign of growing importance.
 
@@ -35,9 +35,11 @@ A few highlights of the EDA Analysis showing the growing trend of funding in Ed 
 
 ## ANALYSIS 
 
-Growth of ED TECH is studied in detail along with external factors. A relationship between external factors such as internet 
+Growth of ED TECH is studied in detail along with external factors. A relationship between external factors such as
 
-penetration,mobile internet users,demographic dividend on growth in Ed Tech company funding is drawn using correlation plot.  
+internet penetration,mobile internet users,demographic dividend on growth in Ed Tech company funding is drawn using 
+
+correlation plot.  
 
 ![PLOT DATA](Images/GRAPH.PNG)
 
@@ -47,17 +49,15 @@ Variables) and dependent variable(Funding Rounds).
 
 ## RESULTS
 
-Successfully proved that there is a positive relationship between funding and independent variables implying external factors 
+Successfully proved that there is a positive relationship between funding and independent variables implying external 
 
-did influence Ed Tech Industry grow.Though its important to note that correlation doesn't mean causation.
+factors did influence Ed Tech Industry grow.Though its important to note that correlation doesn't mean causation.
 
-![CORRELATION](Images/CORR PLOT.PNG)
+![CORRELATION](<CORR PLOT.PNG>)
 
 ## REMARKS
 Since majority of E Learning user base is younger population. There is a lot of room for Edtech companies to grow in a country like 
-
 ours.Especially with the rise in internet connectivity among younger population in rural India.There is a good oppurtunity round the
-
 corner waiting to be grabbed. 
 
 ![FUTURE STATISTICS](<Images/WAY FORWORD.PNG>) 

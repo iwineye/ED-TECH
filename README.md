@@ -4,7 +4,7 @@ This project is an attempt to highlight the growth of Ed Tech industry into what
 
 An attempt is made to quantify external factors that possibly helped in the growth.So we look into those as well.
 
-![Complete Story]()
+![Complete Data story](https://colab.research.google.com/drive/1WYUhyaI377U9-MnlVGLSqe3fncwh05Ba?usp=sharing)
 
 ![PROJECT OVERVIEW](Images/Edtech.PNG)
 
@@ -46,6 +46,9 @@ correlation plot.
 ## OLS REGRESSION
 Using Statsmodel api Ordinary Linear Regression is performed.It is used to draw the relationship between independent(Feature 
 Variables) and dependent variable(Funding Rounds).
+
+It suggested that for every 1.5 - 2.2 million users added to an e-learning platform gives a company the leverage to 
+raise one round of funding
 
 ## RESULTS
 

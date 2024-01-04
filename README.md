@@ -4,7 +4,7 @@ This project is an attempt to highlight the growth of Ed Tech industry into what
 
 An attempt is made to quantify external factors that possibly helped in the growth.So we look into those as well.
 
-![Complete Data story](https://colab.research.google.com/drive/1WYUhyaI377U9-MnlVGLSqe3fncwh05Ba?usp=sharing)
+[Complete Data story](https://colab.research.google.com/drive/1WYUhyaI377U9-MnlVGLSqe3fncwh05Ba?usp=sharing)
 
 ![PROJECT OVERVIEW](Images/Edtech.PNG)
 
